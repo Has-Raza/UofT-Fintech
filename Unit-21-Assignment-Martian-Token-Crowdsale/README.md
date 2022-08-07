@@ -2,7 +2,7 @@
 
 ## Results
 
-Here are all the images fro Kasei Coin deployment.
+Here are all the images for Kasei Coin deployment.
 
 ![alt=""](Images/KCCDdeploy.png)
 ![alt=""](Images/KCCDdeployedtxn.png)
